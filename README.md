@@ -1,4 +1,3 @@
 # Expand-SocialMedia-Buttons
-Social Media Buttons With Hover Effect Only HTML and CSS
-
-![Screenshot](Miniatura.png)
+Page live https://umitrock.github.io/Expand-SocialMedia-Buttons/
+<img src="https://github.com/UmitRock/Expand-SocialMedia-Buttonse/blob/main/page.PNG?raw=true" alt="">
